@@ -38,7 +38,7 @@ void setup() {
   try {
     neuroSocket.start();
   } 
-  catch (ConnectException e) {
+  catch (Exception e) {
     //println("Is ThinkGear running??");
   }
   smooth();

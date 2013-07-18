@@ -1,0 +1,18 @@
+The NeuroSky MindWave device did not come with a Java implementation.
+
+I created this library to make it easy to communicate with the ThinkGear connector over Java sockets, both in Processing and in Eclipse.
+
+A processing example is provided.
+
+Make sure the thinkgear connector is running. 
+
+/Andreas Borg
+
+Read more
+https://crea.tion.to/thinkgear-java-socket/
+
+
+Added a zipped Eclipse project version tested with Processing 2.0b9 in examples folder
+
+Get proclipsing here.
+http://code.google.com/p/proclipsing/wiki/GettingStarted
